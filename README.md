@@ -2,7 +2,7 @@
 
 ```
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
-< I'm cowsay, the dumb echo cow! I've become more memory safe and fast though since this guy @sntdevco rewrote me in Rust. Happy cowsaying! >
+< I'm cowsay, the dumb echo cow! I've become more memory safe and fast though since this guy @ohsayan rewrote me in Rust. Happy cowsaying! >
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         \   ^__^
          \  (oo)\_______

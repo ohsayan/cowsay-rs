@@ -2,7 +2,7 @@ use std::env;
 use std::io::*;
 fn main() {
     let mut args: Vec<String> = env::args().collect();
-    args.remove(0); // HACK(sntdevco) -> Remove the program's file name
+    args.remove(0); // HACK(ohsayan) -> Remove the program's file name
     if args.len() != 1 {
         cowsay("I'm not so smart!\nTell me what to do!\nUsage: cowsay \"What you want to say!\"");
     } else {
